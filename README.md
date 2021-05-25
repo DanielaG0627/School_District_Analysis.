@@ -1,4 +1,3 @@
-<img width="791" alt="Screen Shot 2021-05-23 at 11 54 38 PM" src="https://user-images.githubusercontent.com/17945476/119423833-40212480-bcd2-11eb-9bdd-5879e4d4c43a.png">
 # PyCity Schools District Analysis
 
 ## Purpose
