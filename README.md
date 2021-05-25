@@ -21,7 +21,7 @@ PyCity school district student reading and math passing test scores were analyze
 ![Screen Shot 2021-05-24 at 8 42 04 PM](https://user-images.githubusercontent.com/17945476/119423880-59c26c00-bcd2-11eb-9486-41540112f6a3.png)
 ![Screen Shot 2021-05-24 at 8 42 13 PM](https://user-images.githubusercontent.com/17945476/119423893-60e97a00-bcd2-11eb-918f-c5c71f0f8fa5.png)
 
-* When analyzing the overall passing score based on school budget, it was found that the top performing school have a spending rage per student of less than $584, while the bottom performing school had the highest spending range per student of $645-$675.
+* When analyzing the overall passing score based on school budget, it was found that the top performing school had a spending range per student of less than $584, while the bottom performing school had the highest spending range per student of $645-$675.
 <img width="861" alt="Screen Shot 2021-05-23 at 11 54 23 PM" src="https://user-images.githubusercontent.com/17945476/119423954-81193900-bcd2-11eb-9b9d-5db0b7cde3c7.png">
 
 
