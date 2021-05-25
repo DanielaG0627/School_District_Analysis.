@@ -12,7 +12,7 @@ PyCity school district student reading and math passing test scores were analyze
 * The top five performing schools in order were Cabrera High School, Thomas High School, Griffin High School, Wilson High School and Pena High School all with a 90% or above overall passing percentage of reading and math scores. These schools were charter schools with less than 2,500 students.
 ![Screen Shot 2021-05-24 at 8 02 20 PM](https://user-images.githubusercontent.com/17945476/119424183-f8e76380-bcd2-11eb-8230-d52eeafcd53c.png)
 
-* The bottom five performing schools in order were Rodriguez High School, Figueroa High School, Huang High School, Hernandez High School, and Johnson High School all with a 53% or below overall passing percentage of reading and math scores. These schools were Districs schools with over 2,900 students.
+* The bottom five performing schools in order were Rodriguez High School, Figueroa High School, Huang High School, Hernandez High School, and Johnson High School all with a 53% or below overall passing percentage of reading and math scores. These schools were District schools with over 2,900 students.
 ![Screen Shot 2021-05-24 at 8 02 27 PM](https://user-images.githubusercontent.com/17945476/119424167-f2f18280-bcd2-11eb-91cb-dcd50a73e40b.png)
 
 * While comparing the scores per high school by grade, Holden High School was the top performing school in reading and math.  The 12th Grade class had the highest reading score of 84.70% while the 11th grade class had the highest math score of 85.0%.
